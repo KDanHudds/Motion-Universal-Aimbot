@@ -35,7 +35,7 @@ local Section2 = Tab2:AddSection({
 Tab2:AddLabel("The original creator of the Aimbot is Exunys")
 Tab2:AddLabel("Hub made by KDanHudds")
 
-Tab:AddLabel("You can now close this menu or change localplayer settings")
+Tab:AddLabel("You can now close this menu")
 Tab:AddLabel("by pressing right shift or the X in the top")
 
 pcall(function()
