@@ -1,4 +1,4 @@
-# Welcome to Motion Univeral Aimbot
+# Welcome to Motion Universal Aimbot
 An aimbot script which can be used on any Roblox fps game
 
 # Downloads/installation:
